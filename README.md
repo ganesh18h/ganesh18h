@@ -55,7 +55,7 @@ open source opportunities.
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/ganeshdussa/)
+[![LinkedIn]linkedin.com/in/ganeshdussa/)
 
 ---
 
