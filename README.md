@@ -14,7 +14,7 @@ in backend development.
 🔬 Exploring Mainframe modernization — bridging COBOL/JCL 
 legacy systems with modern Java architecture.
 
-🏆 IBM Z Advocate — Level 2 Badge | Global Rank #41 
+🏆 IBM Z Advocate — Level 2 Badge | Global Rank #30
 in IBM Z Community
 
 🌐 Active contributor in the IBM Z global community.
