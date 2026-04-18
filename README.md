@@ -1,6 +1,6 @@
 # Hi, I'm Ganesh D 👋
 
-🎯 Java Developer | Mainframe Modernization | IBM Z Advocate
+🎯 Java Developer | Mainframe Modernization | IBM Z Advocate | Python Developer
 
 
 ## About Me
@@ -8,11 +8,11 @@
 🖥️ I work with Mainframe systems and specialize in integrating 
 legacy systems with modern Java applications.
 
-☕ Proficient in Core Java with hands-on academic projects 
+☕ Proficient in Core Java and Python with hands-on academic projects 
 in backend development.
 
 🔬 Exploring Mainframe modernization — bridging COBOL/JCL 
-legacy systems with modern Java architecture.
+legacy systems with modern Java/Pythom architecture.
 
 🏆 IBM Z Advocate — Level 2 Badge | Global Rank #30
 in IBM Z Community
@@ -27,13 +27,13 @@ open source opportunities.
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java | COBOL | JCL | HTML | JavaScript
+**Languages:** Java | COBOL | JCL | HTML | JavaScript | Python
 
 **Mainframe:** IBM Z Systems | z/OS | Mainframe Modernization | COBOL | VSAM | JCL | IBM DB2
 
-**Tools:** Git | GitHub | Node.js | Supabase | Vercel
+**Tools:** Git | GitHub | Node.js | Supabase | Vercel | Django
 
-**Currently Learning:** Spring Boot | Open Source Contribution
+**Currently Learning:** Spring Boot | Open Source Contribution 
 
 ---
 
