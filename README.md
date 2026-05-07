@@ -62,11 +62,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Ganesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganesh18h&show_icons=true&theme=tokyonight)
-
----
 
 ## 📫 Connect With Me
 
