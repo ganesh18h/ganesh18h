@@ -1,63 +1,80 @@
 # Hi, I'm Ganesh D 👋
 
-🎯 Java Developer | Mainframe Modernization | IBM Z Advocate | Python Developer
+### 🎯 CS Graduate 2025 | Java & Python Developer | IBM Z Global Rank #9 | AI & Mainframe Modernization
 
+---
 
 ## About Me
 
-🖥️ I work with Mainframe systems and specialize in integrating 
-legacy systems with modern Java applications.
+🏆 **IBM Z Global Rank #9** — Top 10 contributor worldwide in the IBM Z & LinuxONE community out of thousands of professionals and engineers globally.
 
-☕ Proficient in Core Java and Python with hands-on academic projects 
-in backend development.
+🤖 Building AI-powered tools that solve real problems — my Resume Tailor automates JD-based resume customization using LLM APIs end-to-end.
 
-🔬 Exploring Mainframe modernization — bridging COBOL/JCL 
-legacy systems with modern Java/Pythom architecture.
+🖥️ Specializing in **Mainframe Modernization** — bridging COBOL/JCL legacy systems with modern Java and Python architectures.
 
-🏆 IBM Z Advocate — Level 2 Badge | Global Rank #30
-in IBM Z Community
+☕ Proficient in **Core Java and Python** with hands-on projects in backend development, AI integration, and automation.
 
-🌐 Active contributor in the IBM Z global community.
+📝 Published technical writer on **Medium** — covering enterprise batch processing and database concepts on IBM z/OS.
 
-🚀 Currently building my own projects and exploring 
-open source opportunities.
+🚀 Actively contributing to **open source** and exploring Java backend opportunities.
 
-📍 Hyderabad, India
+📍 Hyderabad, India | Immediate Joiner | Open to Pan-India Relocation
 
+---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java | COBOL | JCL | HTML | JavaScript | Python
+**Languages:** Java | Python | COBOL | JCL | SQL | JavaScript | HTML
 
-**Mainframe:** IBM Z Systems | z/OS | Mainframe Modernization | COBOL | VSAM | JCL | IBM DB2
+**AI & LLM:** Claude API | OpenAI API | Prompt Engineering | LangChain (Basics) | Generative AI | RAG (Conceptual)
 
-**Tools:** Git | GitHub | Node.js | Supabase | Vercel | Django
+**Mainframe:** IBM Z Systems | z/OS | COBOL | VSAM | JCL | IBM DB2 | Mainframe Modernization
 
-**Currently Learning:** Spring Boot | Open Source Contribution 
+**Backend:** JDBC | MySQL | REST APIs | Node.js | Django | Spring Boot (Learning)
+
+**Tools:** Git | GitHub | VS Code | Postman | Supabase | Vercel
 
 ---
 
 ## 🚀 Projects
 
-| Project | Description | Link |
-|---|---|---|
-| AI Resume Optimizer | AI powered resume optimizer built with Node.js | [Live](https://ai-resume-optimizer-eight.vercel.app) |
-| Student Data Management | Java console app using Collections | [Repo](https://github.com/ganesh18h/Student-data-managment-system) |
+| Project | Description | Tech | Link |
+|---|---|---|---|
+| **AI Resume Tailor** | Upload a JD + resume → auto-detects matched & missing keywords → user selects keywords → generates tailored resume in 5 seconds without changing structure | Python, Claude API, NLP, PDF Parsing | [Live](https://ai-resume-optimizer-eight.vercel.app) |
+| **Plagiarism Checker** | Compares two documents and returns similarity percentage using Cosine Similarity with text preprocessing | Java, OOPs, Text Processing | [Repo](https://github.com/ganesh18h) |
+| **Student Data Management** | Java console app for managing student records using Collections Framework | Java, Collections | [Repo](https://github.com/ganesh18h/Student-data-managment-system) |
 
+---
 
 ## 🏆 Achievements
 
-🥇 IBM Z Advocate — Level 2 Badge
+🥇 **IBM Z Global Rank #9** — Q1 2026 — Top 10 worldwide
 
-🌍 Global Rank #41 — IBM Z Community
+🎖️ IBM Z Advocate — Level 2 Badge
+
+✍️ Published on **Medium** — Enterprise batch processing & IBM z/OS database concepts
+
+📜 Goldman Sachs Engineering Virtual Experience — Forage 2025
+
+📜 Core Java Certification | SQL Certification — Great Learning
+
+📜 Generative AI Fundamentals — Coursera 2025
+
+---
+
+## 📊 GitHub Stats
+
+![Ganesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganesh18h&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganeshdussa/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganesh18h)
 
 ---
 
-⭐ Currently exploring open source contributions in 
-Java backend and Mainframe modernization projects## 
+> *"Global Rank #9 in IBM Z Community — not bad for a 2025 fresher."* 🚀
+
